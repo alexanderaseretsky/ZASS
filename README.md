@@ -3,7 +3,7 @@ from tkinter import ttk
 from tkinter.ttk import Checkbutton
 
 window = Tk()
-window.title("Добро пожаловать в приложение PythonRu")
+window.title("Умный дом")
 window.geometry('800x500')
 tab_control = ttk.Notebook(window)
 
